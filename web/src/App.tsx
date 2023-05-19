@@ -16,7 +16,7 @@ function App() {
 
   return (
     <>
-      <h1>React App Embedded in Go!!</h1>
+      <h1>React App Embedded in Go</h1>
      {message}
     </>
   )
